@@ -1,0 +1,23 @@
+{
+    "name": "neon-blue-drive",
+    "displayName": "Neon Blue Drive",
+    "description": "An Awesome Neon Blue Theme Inspired by The Best Theme",
+    "publisher": "RithikDev",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "icon": "icons/icon.png",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Neon Blue Drive",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Neon Blue Drive-color-theme.json"
+            }
+        ]
+    }
+}
