@@ -11,6 +11,10 @@
     "categories": [
         "Themes"
     ],
+    "repository": {
+    "url": "https://github.com/Code2Rithik/neon-blue-drive-theme.git",
+    "type": "git"
+  },
     "contributes": {
         "themes": [
             {
